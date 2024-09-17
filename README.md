@@ -3,7 +3,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/user-attachments/assets/3c4488be-ef60-461b-aa1d-6c98cf763a84)
+![image](https://github.com/user-attachments/assets/09fb5f07-4463-40c3-892a-4af43e44825e)
 
 ## Ferramentas utilizadas:
 
